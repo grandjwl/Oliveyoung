@@ -1,2 +1,2 @@
-# Oliveyoung
-Implementation of a customer-tailored product recommendation system
+# 제 3회 Outta 부트캠프
+## 올리브영 추천 시스템 구현 

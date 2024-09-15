@@ -13,6 +13,8 @@
 7. [피드백 및 결론](#참고-문헌)
 8. [사용 방법](#사용-방법)
 
+![image](https://github.com/user-attachments/assets/3dde2ec9-2975-4b6b-886b-9745beb3702f)
+
 <hr>
 
 ### 프로젝트 개요 
